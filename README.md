@@ -49,7 +49,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/ceyhunergunn/ceyhunergunn/output/snake.svg" alt="Snake animation" />
-
-###
